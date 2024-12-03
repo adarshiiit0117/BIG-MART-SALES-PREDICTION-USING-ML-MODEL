@@ -1,6 +1,6 @@
 # BigMart Sales Prediction
 
-This repository contains a machine learning project aimed at predicting the sales of products in BigMart stores. The project involves data preprocessing, feature engineering, model training, and evaluation. The goal is to build a model that can accurately predict the sales based on various features such as item type, store type, and other relevant attributes.
+This repository contains a machine learning project aimed at predicting the sales of products in BigMart stores. The project involves data preprocessing, model training, and evaluation. The goal is to build a model that can accurately predict the sales based on various features such as item type, store type, and other relevant attributes.
 
 ## Project Overview
 
